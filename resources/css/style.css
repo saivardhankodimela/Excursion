@@ -6,16 +6,15 @@ section {
     text-align: center; 
 }
 
-.one{
+.one p{
     
     font-weight:normal;
     font-size:50px;
     color:white;
+    
 }
 
-.one p{
-    margin-bottom:0 ;
-}
+
 
 
 section a{
@@ -45,5 +44,5 @@ footer{
     color:gray;
     text-align: right;
     font-weight:normal;
-    font-size:21px
+    font-size:21px;
 }
