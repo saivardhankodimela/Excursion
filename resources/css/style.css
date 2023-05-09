@@ -1,18 +1,48 @@
 *{
     background-color: black;
+    font-family: Verdana;
 }
 section {
     text-align: center; 
 }
 
-h1, a{
-    font-family: Verdana;
+.one{
+    
     font-weight:normal;
     font-size:50px;
     color:white;
 }
 
-.DECS{
+.one p{
+    margin-bottom:0 ;
+}
+
+
+section a{
     color: aquamarine;
     font-size: 16px;
+}
+
+.two{
+    margin-top: 15px;
+}
+
+.three p,.four p {
+    font-family: Verdana;
+    font-weight: 400;
+    font-size: 42px;
+    color:white;
+}
+
+.three .sub{
+    font-family: Verdana;
+    font-size: 21px ;
+    color:gray ;
+    
+}
+
+footer{
+    color:gray;
+    text-align: right;
+    font-weight:normal;
 }
