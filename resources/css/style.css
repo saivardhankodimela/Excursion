@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+}
+section {
+    text-align: center; 
+}
+
+h1, a{
+    font-family: Verdana;
+    font-weight:normal;
+    font-size:50px;
+    color:white;
+}
+
+.DECS{
+    color: aquamarine;
+    font-size: 16px;
+}
